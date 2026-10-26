@@ -1,2 +1,2 @@
-# java-practice-problems-36
-printing a solid rectangle 
+# java-practice-problems-3
+print a solid rectangle using for loop. 
